@@ -1,0 +1,5 @@
+structure(c(0, 1, 2, 3, 4), .indexCLASS = c("POSIXct", "POSIXt"
+), .indexTZ = "GMT", tclass = c("POSIXct", "POSIXt"), tzone = "GMT", index = structure(c(1454318273.48, 
+1454321436.858, 1454327074.938, 1454331177.249, 1454332499.045
+), tzone = "GMT", tclass = c("POSIXct", "POSIXt")), .Dim = c(5L, 
+1L), .Dimnames = list(NULL, "Trade"), class = c("xts", "zoo"))
